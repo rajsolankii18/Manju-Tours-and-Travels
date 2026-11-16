@@ -1,0 +1,9 @@
+{
+  "name": "manjushree-tours-and-travels",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Public website for Manjushree Tours and Travels in Jodhpur.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
